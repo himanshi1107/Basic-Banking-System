@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Spark_Banking_Portal
+Bundle-SymbolicName: Spark_Banking_Portal
+Bundle-Version: 1.0.0.qualifier
+Export-Package: controller,
+ model,
+ view
